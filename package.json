@@ -1,0 +1,26 @@
+{
+  "name": "yarnall",
+  "version": "1.0.6",
+  "description": "execute yarn command all folders",
+  "main": "yarnall",
+  "bin": {
+    "yarnall": "./yarnall.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuwoom/yarnall.git"
+  },
+  "keywords": [
+    "yarn"
+  ],
+  "author": "cuwoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuwoom/yarnall/issues"
+  },
+  "homepage": "https://github.com/cuwoom/yarnall#readme"
+}
